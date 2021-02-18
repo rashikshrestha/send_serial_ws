@@ -28,5 +28,5 @@ m,.
 ### In terminal 3
 To visualize the command velocity
 ```
-rostopic echo /cmd_vel
+show_cmd_vel
 ```
