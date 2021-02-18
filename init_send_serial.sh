@@ -1,7 +1,5 @@
 #!/bin/bash
 
-catkin_make
-
 echo "#----------------- THIS IS TO SOURCE send_serial__ws PACKAGES -----------------" >> ~/.bashrc
 
 echo "export SEND_SERIAL_WS=$(pwd)" >> ~/.bashrc

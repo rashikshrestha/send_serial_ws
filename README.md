@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/rashikshrestha/send_serial_ws.git
 cd send_serial_ws
+catkin_make
 sudo ./init_send_serial.sh
 ```
 
