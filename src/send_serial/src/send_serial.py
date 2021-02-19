@@ -58,7 +58,7 @@ def callback(msg):
     v = round(msg.linear.x*100,2)
     w = round(msg.angular.z*100,2)
 
-    send_value = str(v) + ',' + str(w)
+    send_value = '#' + str(v) + ',' + str(w) + '&'
 
     ser.write(send_value.encode())
 

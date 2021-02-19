@@ -1,4 +1,4 @@
-## Follow folling steps:
+## Follow following steps:
 
 ```
 git clone https://github.com/rashikshrestha/send_serial_ws.git
@@ -22,8 +22,8 @@ keyboard
 ```
 
 To move around type(inside terminal 2): 
-uio
-jkl
+uio\
+jkl\
 m,.
 
 ### In terminal 3
